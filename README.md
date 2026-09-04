@@ -3,6 +3,8 @@ Perform a complete pharmacovigilance assessment on a detailed case study. This i
 
 Patient information:
 
+PATIENT NAME :Mr.A
+
 AGE: 34-year
 
 SEX: male
@@ -13,7 +15,7 @@ Height: 178 cm
 
 Current Complaints : Patient presented to the emergency department with a 2-day history of persistent nausea, vomiting, and worsening abdominal pain radiating to the back. He also reported new-onset lethargy and mild confusion over the past 24 hours. On examination, he was afebrile, mildly jaundiced, with epigastric tenderness.
 
-Relevant medical history: Bipolar I disorder (diagnosed 4 years ago), no known renal or hepatic impairment, no known drug allergies
+Relevant medical history: Bipolar disorder (diagnosed 4 years ago), no known renal or hepatic impairment, no known drug allergies
 
 Family history: Father has type 2 diabetes
 
@@ -29,7 +31,33 @@ Suspect drug:
 
 Sodium valproate (divalproex) 500 mg BID, started 6 weeks ago as a mood stabilizer, dose increased to 1000 mg BID 10 days ago after a partial response
 
-Serum lipase: 850 U/L (reference range 10–140 U/L)
+Alcohol history: denies significant use; urine toxicology negative
+
+ADR IDENTIFICATION : 
+
+SUSPECTED DRUG: Sodium valproate (divalproex) 500 mg BID, started 6 weeks ago as a mood stabilizer, dose increased to 1000 mg BID 10 days ago after a partial response
+
+REACTION: Nausea,vomiting,worsening abdominal pain radiating to the back,lethargy and mild confusion over the past 24 hour,mildly jaundiced,epigastric tenderness. 
+
+ONSET: Before 2 days 
+
+SEVERITY: Severe 
+
+OUTCOME:Recovered after drug withdrawl and treatment. 
+
+The patient was admitted to the medical ward, sodium valproate was discontinued, and he was managed with IV fluids, bowel rest, and supportive care. Mental status gradually improved over 48 hours as ammonia levels trended down. He was discharged on Day 6 with a diagnosis of valproate-induced acute pancreatitis with concurrent hyperammonemia, and psychiatry was consulted to select an alternative mood stabilizer. No rechallenge was performed.
+
+CAUSALITY ASSESSMENT : 
+
+Drug history: Sodium valproate (divalproex) 500 mg BID, started 6 weeks ago as a mood stabilizer, dose increased to 1000 mg BID 10 days ago after a partial response.
+
+Day 0: Dose increased to 1000 mg BID
+
+Day 10: Patient develops nausea, vomiting, worsening abdominal pain radiating to the bask, lethargy, mild confusion for past 24 hours.
+
+Day 14: Presents to ED
+
+Labs: Serum lipase: 850 U/L (reference range 10–140 U/L)
 
 Serum amylase: 620 U/L (reference range 25–125 U/L)
 
@@ -41,21 +69,11 @@ Sodium valproate trough level: 118 µg/mL (therapeutic range typically 50–100 
 
 Abdominal CT: findings consistent with acute pancreatitis, no gallstones, no evidence of biliary obstruction
 
-Alcohol history: denies significant use; urine toxicology negative
+sodium valproate was discontinued, and he was managed with IV fluids, bowel rest, and supportive care. Mental status gradually improved over 48 hours as ammonia levels trended down. He was discharged on Day 6 with a diagnosis of valproate-induced acute pancreatitis with concurrent hyperammonemia, and psychiatry was consulted to select an alternative mood stabilizer. No rechallenge was performed.
 
-ADR IDENTIFICATION : 
+Naranjo Scale Scoring Total Score: 5 → Probable
 
-SUSPECTED DRUG: Sodium valproate (divalproex) 500 mg BID, started 6 weeks ago as a mood stabilizer, dose increased to 1000 mg BID 10 days ago after a partial response
 
-REACTION: Nausea,vomiting,worsening abdominal pain radiating to the back,lethargy and mild confusion over the past 24 hour,mildly jaundiced,epigastric tenderness. 
 
-ONSET: Beore 2 days 
 
-SEVERITY: Severe 
-
-OUTCOME:Recovered after drug withdrawl and treatment. 
-
-The patient was admitted to the medical ward, sodium valproate was discontinued, and he was managed with IV fluids, bowel rest, and supportive care. Mental status gradually improved over 48 hours as ammonia levels trended down. He was discharged on Day 6 with a diagnosis of valproate-induced acute pancreatitis with concurrent hyperammonemia, and psychiatry was consulted to select an alternative mood stabilizer. No rechallenge was performed.
-
-ADR REPORTING : 
 
