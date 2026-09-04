@@ -45,18 +45,17 @@ Alcohol history: denies significant use; urine toxicology negative
 
 ADR IDENTIFICATION : 
 
-Suspect drug:
-
-Sodium valproate (divalproex) 500 mg BID, started 6 weeks ago as a mood stabilizer, dose increased to 1000 mg BID 10 days ago after a partial response
+SUSPECTED DRUG: Sodium valproate (divalproex) 500 mg BID, started 6 weeks ago as a mood stabilizer, dose increased to 1000 mg BID 10 days ago after a partial response
 
 REACTION: Nausea,vomiting,worsening abdominal pain radiating to the back,lethargy and mild confusion over the past 24 hour,mildly jaundiced,epigastric tenderness. 
 
-ONSEET: Beore 2 days 
+ONSET: Beore 2 days 
 
-SEVERITY: 
+SEVERITY: Severe 
 
-OUTCOME: 
+OUTCOME:Recovered after drug withdrawl and treatment. 
 
 The patient was admitted to the medical ward, sodium valproate was discontinued, and he was managed with IV fluids, bowel rest, and supportive care. Mental status gradually improved over 48 hours as ammonia levels trended down. He was discharged on Day 6 with a diagnosis of valproate-induced acute pancreatitis with concurrent hyperammonemia, and psychiatry was consulted to select an alternative mood stabilizer. No rechallenge was performed.
 
+ADR REPORTING : 
 
