@@ -1,5 +1,4 @@
 # Individual-Case-Safety-Report-
-Perform a complete pharmacovigilance assessment on a detailed case study. This includes ADR identification, reporting, causality assessment, and severity classification, simulating the role of a Drug Safety Associate.
 
 Patient information:
 
@@ -9,9 +8,9 @@ AGE: 34-year
 
 SEX: male
 
-Weight: 82 kg,
+WEIGHT: 82 kg,
 
-Height: 178 cm
+HEIGHT: 178 cm
 
 Current Complaints : Patient presented to the emergency department with a 2-day history of persistent nausea, vomiting, and worsening abdominal pain radiating to the back. He also reported new-onset lethargy and mild confusion over the past 24 hours. On examination, he was afebrile, mildly jaundiced, with epigastric tenderness.
 
@@ -19,7 +18,7 @@ Relevant medical history: Bipolar disorder (diagnosed 4 years ago), no known ren
 
 Family history: Father has type 2 diabetes
 
-Concomitant medications:
+CURRENT MEDICATIONS:
 
 Sertraline 100 mg OD (ongoing, 2 years, for comorbid anxiety)
 
@@ -72,6 +71,17 @@ Abdominal CT: findings consistent with acute pancreatitis, no gallstones, no evi
 sodium valproate was discontinued, and he was managed with IV fluids, bowel rest, and supportive care. Mental status gradually improved over 48 hours as ammonia levels trended down. He was discharged on Day 6 with a diagnosis of valproate-induced acute pancreatitis with concurrent hyperammonemia, and psychiatry was consulted to select an alternative mood stabilizer. No rechallenge was performed.
 
 Naranjo Scale Scoring Total Score: 5 → Probable
+
+SEVERITY: 
+
+Acute pancreatitis — Grade 3 (severe pain, hospitalization for IV fluids/bowel resT), 
+
+Hyperammonemia with confusion/lethargy — Grade 3 (altered mental status requiring inpatient monitoring, but not obtunded or requiring ICU-level airway support)
+
+severity classification : Severe
+
+ADR Reporting form 
+
 
 
 
